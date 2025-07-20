@@ -50,18 +50,15 @@ I'm a passionate and driven tech enthusiast currently pursuing Computer Science 
 
 ## 📈 GitHub Stats
 
+### 📊 GitHub Overview
+
+<!-- GitHub General Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrejanReddy6982&show_icons=true&theme=onedark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrejanReddy6982&theme=onedark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrejanReddy6982&theme=radical" />
 </p>
 
----
-
-## 🤝 Let's Connect
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonymettu6982@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SrejanReddy6982)
-
----
-
-_“Every bug fixed is a brain upgraded.”_
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrejanReddy6982&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrejanReddy6982&theme=radical" />
+</p>
