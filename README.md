@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Srejan Reddy</h1>
-<h4 align="center">CSE Undergrad | Deep Learning Explorer | Python Developer</h4>
+<h4 align="center">CSE Student | Web Developer | Project Builder </h4>
 
 <p align="center">
   <a href="mailto:anthonymettu6982@gmail.com">Email</a> •
