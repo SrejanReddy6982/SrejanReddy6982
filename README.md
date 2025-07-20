@@ -20,7 +20,7 @@ I'm a passionate and driven tech enthusiast currently pursuing Computer Science 
   
 - *ML/Deep Learning:* TensorFlow, Keras, scikit-learn
   
-- *Data Tools:* ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) - ![Tableau Logo](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+- *Data Tools:* ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Tableau Logo](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
   
 - *Database:* SQL, MongoDB ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
