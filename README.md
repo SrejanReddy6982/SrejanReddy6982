@@ -16,11 +16,15 @@ I'm a passionate and driven tech enthusiast currently pursuing Computer Science 
 
 ## 🧠 Skills & Tools
 
-- **Languages:** Python, Java, C
-- **ML/Deep Learning:** TensorFlow, Keras, scikit-learn
-- **Data Tools:** Power BI, Tableau, Excel
-- **Database:** SQL, MongoDB
-- **Other Tools:** OpenCV, REST APIs, SpeechRecognition, pyttsx3
+- *Languages:* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  
+- *ML/Deep Learning:* TensorFlow, Keras, scikit-learn
+  
+- *Data Tools:* ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) - ![Tableau Logo](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+  
+- *Database:* SQL, MongoDB ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+  
 
 ---
 
@@ -40,11 +44,7 @@ I'm a passionate and driven tech enthusiast currently pursuing Computer Science 
 
 ---
 
-## 🚀 Currently Exploring
 
-- 🔍 Image forensics using texture & noise inconsistencies
-- 🎙️ NLP-based intelligent assistants
-- ⚡ FastAPI and real-time backend workflows
 
 ---
 
